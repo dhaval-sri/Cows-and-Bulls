@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="MissingTranslation">
+        <ignore path="res/values/strings.xml" />
+    </issue>
+    <issue id="Overdraw">
+        <ignore path="res/layout/activity_main.xml" />
+        <ignore path="res/layout/cvp.xml" />
+        <ignore path="res/layout/game_mode.xml" />
+        <ignore path="res/layout/pvp.xml" />
+    </issue>
+</lint>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cowsbulls="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/ic_action_save"
+        android:showAsAction="always"
+        android:title="@string/save"/>
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/ic_menu_recent_history"
+        android:showAsAction="always"
+        android:title="@string/history"/>
+    <item
+        android:id="@+id/mark"
+        android:icon="@drawable/ic_action_edit"
+        android:showAsAction="always"
+        android:title="@string/mark"/>
+
+</menu>

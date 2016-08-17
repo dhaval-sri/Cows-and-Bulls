@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cows &amp; Bulls</string>
+    <string name="heading">Welcome to Cows and Bulls!</string>
+    <string name="play">Click here to Play!</string>
+    <string name="game">Select Game Mode:</string>
+    <string name="p1">Player vs CPU</string>
+    <string name="p2">Player vs Player</string>
+    <string name="cvp">Player vs CPU</string>
+    <string name="pvp">Player vs Player</string>
+    <string name="pvpheading">Welcome to Player vs Player Mode!</string>
+    <string name="cvpheading">Welcome to Player vs CPU mode!</string>
+    <string name="namep1">Enter your name Player 1:</string>
+    <string name="askname">Click here to enter name</string>
+    <string name="namep2">Enter your name Player 2:</string>
+    <string name="submit">Submit</string>
+    <string name="input_word">Click to enter word</string>
+    <string name="next">Next</string>
+    <string name="cows">Cows</string>
+    <string name="bulls">Bulls</string>
+    <string name="enter_guess">Enter your guess</string>
+    <string name="guess">Guess!</string>
+    <string name="rule1">Rule Violation! THERE SHOULD BE NO REPITIONS OF THE LETTERS IN THE WORD.</string>
+    <string name="rule3">Enter name</string>
+    <string name="ok">OK</string>
+    <string name="time">Time:</string>
+    <string name="infinite_chances">Do you want to have infinite chances:</string>
+    <string name="give_up">Give Up</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="history">History</string>
+    <string name="close_history">Close history</string>
+    <string name="exit">Exit</string>
+    <string name="markl">Mark your letters</string>
+    <string name="mark">Mark</string>
+    <string name="settings">Settings</string>
+    <string name="difficulty">Select difficulty of game</string>
+    <string name="save">Save Progress</string>
+
+</resources>
