@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cowsbulls="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_action_settings"
+        android:showAsAction="always"
+        android:title="@string/settings"/>
+    <item
+        android:id="@+id/exit"
+        android:icon="@drawable/ic_action_remove"
+        android:showAsAction="never"
+        android:title="@string/exit"/>
+
+</menu>
